@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Ejemplos de ABM - con archivo de texto</title>
+	<title>Ejemplos de ABM</title>
 	  
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">

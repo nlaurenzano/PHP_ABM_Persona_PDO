@@ -62,9 +62,9 @@ class Persona
 		if($dni != NULL){
 			$obj = Persona::TraerUnaPersona($dni);
 			
+			$this->dni = $dni;
 			$this->apellido = $obj->apellido;
 			$this->nombre = $obj->nombre;
-			$this->dni = $dni;
 			$this->foto = $obj->foto;
 		}
 	}
